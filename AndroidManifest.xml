@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest android:hasCode="false" android:versionCode="4" android:versionName="2.3" android:installLocation="internalOnly" package="com.mike.theme.honeycomb3d"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pluto="http://www.w3.org/2001/pluto.html">
+    <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="9" />
+    <application android:label="@string/theme_name" android:icon="@drawable/icon">
+        <activity android:label="@string/theme_name" android:name="com.tmobile.theme.Foo" />
+    </application>
+    <theme pluto:themeId="Honeycomb3D" pluto:styleId="\@style/Honeycomb3D" pluto:name="\@string/theme_name" pluto:preview="\@drawable/preview" pluto:author="\@string/author" pluto:copyright="\@string/copyright" pluto:wallpaperImage="\@drawable/wallpaper" pluto:styleName="\@string/style_appearance_name" />
+</manifest>
