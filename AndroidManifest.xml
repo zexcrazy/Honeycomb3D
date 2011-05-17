@@ -5,5 +5,5 @@
     <application android:label="@string/theme_name" android:icon="@drawable/icon">
         <activity android:label="@string/theme_name" android:name="com.tmobile.theme.Foo" />
     </application>
-    <theme pluto:themeId="Honeycomb3D" pluto:styleId="\@style/Honeycomb3D" pluto:name="\@string/theme_name" pluto:preview="\@drawable/preview" pluto:author="\@string/author" pluto:copyright="\@string/copyright" pluto:wallpaperImage="\@drawable/wallpaper" pluto:styleName="\@string/style_appearance_name" />
+    <theme pluto:themeId="Honeycomb3D" pluto:styleId="@style/Honeycomb3D" pluto:name="@string/theme_name" pluto:preview="@drawable/preview" pluto:author="@string/author" pluto:copyright="@string/copyright" pluto:wallpaperImage="@drawable/wallpaper" pluto:styleName="@string/style_appearance_name" />
 </manifest>
