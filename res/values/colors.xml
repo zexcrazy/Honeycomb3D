@@ -31,8 +31,8 @@
     <color name="shadow">#cc222222</color>
     <color name="launcher_glow_pressed">#ff586991</color>
     <color name="launcher_glow_focused">#ff586991</color>
-    <color name="latinkeyboard_key_text_color">#ffbbaee0</color>
-    <color name="latinkeyboard_key_color_white">#ffbbaee0</color>
+    <color name="latinkeyboard_key_text_color">#ffffffff</color>
+    <color name="latinkeyboard_key_color_white">#ffffffff</color>
     <color name="latinkeyboard_key_color_black">#ff000000</color>
     <color name="header_background_light1">#ff0080c0</color>
     <color name="header_background_medium1">#ff108fe3</color>
